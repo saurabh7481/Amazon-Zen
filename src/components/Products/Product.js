@@ -37,10 +37,12 @@ function Product(props) {
                         ))
                     }
                 </div>
-                <img src={props.image} alt="logo"
+               
+                
+            </div>
+            <img src={props.image} alt="logo"
                 className={classes.product__image}/>
                 <button onClick={addToBasket} className={classes.product__addButton}>Add to Basket</button>
-            </div>
             
         </div>
     )

@@ -3,7 +3,7 @@
    height: 400px;
    mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0,0,0,0.7));
    z-index: -1;
-   margin-bottom: -50px;
+   /* margin-bottom: -150px; */
 }
 
 .home{
@@ -14,7 +14,8 @@
 
 .home__row{
     display: flex;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    z-index: 1;
     /* margin-bottom: 5px; */
 }

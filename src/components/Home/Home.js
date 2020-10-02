@@ -35,7 +35,7 @@ function Home() {
 
                 <Product 
                 id="4"
-                title="Acer Nitro 5 Gaming Laptop, 9th Gen Intel Core i5-9300H, NVIDIA GeForce GTX 1650, 15.6 Full HD IPS Display, 8GB DDR4, 256GB NVMe SSD, Wi-Fi 6, Backlit Keyboard, Alexa Built-in"
+                title="Acer Nitro 5 Gaming Laptop, 9th Gen Intel Core i5-9300H, NVIDIA GeForce GTX 1650,8GB DDR4, 256GB NVMe SSD"
                 image="https://images-na.ssl-images-amazon.com/images/I/81mMbsJSkSL._SX466_.jpg"
                 price={99.99}
                 rating={5} />  
