@@ -23,6 +23,12 @@
     justify-content: flex-end;
     padding: 20px;
     width: 100%;
+    transition-duration: 0.3s;
+}
+
+.product:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0px 6px 20px 0 rgba(0,0,0,0.19);
+    transform: scale(1.04,1.04);
 }
 
 .product__image{
